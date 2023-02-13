@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<h1 style = "text-align:center">Dveins Džonsons</h1>
+<a><img src="https://media.tenor.com/kHcmsxlKHEAAAAAM/rock-one-eyebrow-raised-rock-staring.gif" alt="rock.gif"></a>
+<a><img src="https://media.tenor.com/RP_qoKH85xgAAAAM/the-rock-sus-the-rock-meme.gif" alt="rock.gif"></a>
+<a><img src="https://media.tenor.com/kEdtBWkn2vEAAAAM/the-rock-look.gif" alt="rock.gif"></a>
+<p style="text-align:justify;">Universitātes laikā spēlēja amerikāņu futbolu Maiami Universitātes sastāvā NCAA čempionātā. 1991. gadā universitātes sastāvā guva uzvaru NCAA pirmās divīzijas turnīrā. Vēlāk spēlēja Kanādas futbola līgā, taču 1996. gadā izlēma uzsākt profesionālā cīkstoņa karjeru. Cīkstoņi ir bijuši viņa vectēvs un tēvs. Parakstīja līgumu ar WWE. Džonsons ir izcīnījis 16 WWE čempiontitulus, no tiem deviņi izcīnīti supersmagsvaru kategorijā. 2000. gadā izdevis autobiogrāfiju. Par savu pirmo vadošā aktiera lomu 2002. gada filmā "Skorpionu karalis" saņēma 5,5 miljonus ASV dolāru. 2020. gadā žurnāls Forbes atzina Džonsonu par pelnošāko 2019. gada aktieri.</p>
+
+<table border="4">
+	<tr>
+	    <td><b>Gads</b></td><td><b>Nosaukums</b></td><td><b>Loma</b></td><td><b>Piebilde</b></td>
+	</tr>
+	<tr><td>2005</td><td>Doom</td><td>seržants Ašera Mahonins</td><td>-</td></tr>
+    <tr><td>2019</td><td>Hobbs & Shaw</td><td>Lūks Hobss</td><td>-</td></tr>
+    <tr><td>2019</td><td>Jumanji: The Next Level</td><td>Ksanders Breivstouns</td><td>-</td></tr>
+    <tr><td>2021</td><td>Jungle Cruise</td><td>Francisko Lopess de Heredja</td><td>-</td></tr>
+    <tr><td>2022</td><td>Black Adam</td><td>Melnais Adams</td><td>-</td></tr>
+</table>
+
+
+</body>
+</html>
+
